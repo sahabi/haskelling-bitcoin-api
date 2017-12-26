@@ -1,12 +1,32 @@
 dist
+<<<<<<< HEAD
+=======
+dist-*
+>>>>>>> b09c3606d895162de64ef96b146e29af064bcb71
 cabal-dev
 *.o
 *.hi
 *.chi
 *.chs.h
+<<<<<<< HEAD
 *.tix
 .virtualenv
 .hsenv
 .cabal-sandbox/
 cabal.sandbox.config
 cabal.config
+=======
+*.dyn_o
+*.dyn_hi
+.hpc
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+*.prof
+*.aux
+*.hp
+*.eventlog
+.stack-work/
+cabal.project.local
+.HTF/
+>>>>>>> b09c3606d895162de64ef96b146e29af064bcb71

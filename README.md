@@ -6,6 +6,8 @@ haskell-bitcoin-api
 [![MIT](http://b.repl.ca/v1/license-MIT-blue.png)](http://en.wikipedia.org/wiki/MIT_License)
 [![Haskell](http://b.repl.ca/v1/language-haskell-lightgrey.png)](http://haskell.org)
 
+NOTE: This is a fork of this repository: https://github.com/solatis/haskell-bitcoin-api
+
 The Bitcoin Core application provides an HTTP RPC interface for communication.
 This library implements access to these functions. It builds on top of the
 `bitcoin-tx` and `bitcoin-script`, and as such provides an extremely flexible
